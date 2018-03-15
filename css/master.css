@@ -1,9 +1,24 @@
+*{
+  margin: 0px;
+}
+.sidebar p{
+  line-height: 3px;
+}
+#wiki{
+  width: 160px;
+  height: 160px;
+}
 #headerlist{
   float: right;
 }
-#green{
-  background-color: #b4e8c3 !important;
+.navbar {
+  float: left;
+  width: 50px;
 }
 .panel-title{
   font-weight: bolder;
+}
+.pic-right{
+  float: right;
+  font-size: 12px;
 }
