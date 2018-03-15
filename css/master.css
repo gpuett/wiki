@@ -1,3 +1,7 @@
 #headerlist{
   float: right;
 }
+
+.panel-title{
+  font-weight: bolder;
+}
